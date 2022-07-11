@@ -1,6 +1,6 @@
 # Powercord - Wyszukajka
 <video width="320" height="240" controls>
-  <source src="Pokaz pluginu/[POWERCORD] - WYSZUKAJKA.mp4" type="video/mp4">
+  <source src="https://streamable.com/uwu4au" type="video/mp4">
 </video>
 
 # Jak pobrać plugin?
