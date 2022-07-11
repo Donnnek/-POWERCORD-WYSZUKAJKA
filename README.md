@@ -1,5 +1,4 @@
 # Powercord - Wyszukajka
-
 ## [Pokaz pluginu](https://streamable.com/uwu4au)
 
 # Jak pobrać plugin?
