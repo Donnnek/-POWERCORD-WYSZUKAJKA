@@ -14,10 +14,10 @@ cd %HOMEPATH%\powercord\src\Powercord\plugins && git clone https://github.com/Do
 - git – https://git-scm.com/downloads
 - node i npm – https://nodejs.org
 - Discord Canary (Powercord działa jedynie na "Discord Canary"!)
-- macOS: https://discord.com/api/download/canary?platform=osx
-- Windows: https://discord.com/api/download/canary?platform=win
-- Linux (deb): https://discord.com/api/download/canary?platform=linux
-- Linux (tar.gz): https://discord.com/api/download/canary?platform=linux&format=tar.gz
+- Discord Canary - macOS: https://discord.com/api/download/canary?platform=osx
+- Discord Canary - Windows: https://discord.com/api/download/canary?platform=win
+- Discord Canary - Linux (deb): https://discord.com/api/download/canary?platform=linux
+- Discord Canary - Linux (tar.gz): https://discord.com/api/download/canary?platform=linux&format=tar.gz
 
 ```bash
 git clone https://github.com/powercord-org/powercord
