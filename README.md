@@ -32,12 +32,12 @@ cd %HOMEPATH%
 
 # Jak pobrać plugin lub motyw?
 
-##- Plugin:
+## - Plugin:
 ```bash
 cd %HOMEPATH%\powercord\src\Powercord\plugins && git clone plugin-name
 ```
 
-##- Motyw:
+## - Motyw:
 ```bash
 cd %HOMEPATH%\powercord\src\Powercord\themes && git clone theme-name
 ```
