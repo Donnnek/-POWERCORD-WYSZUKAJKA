@@ -1,7 +1,6 @@
 # Powercord - Wyszukajka
-<video width="320" height="240" controls>
-  <source src="https://streamable.com/uwu4au" type="video/mp4">
-</video>
+
+[Pokaz pluginu](https://streamable.com/uwu4au)
 
 # Jak pobrać plugin?
 
