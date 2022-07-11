@@ -1,0 +1,7 @@
+{
+    "name": "Wyszukajka",
+    "version": "1.0.0",
+    "description": "Wyszukaj film lub serial wpisując .s lub .szukaj",
+    "author": "Donnek",
+    "license": "MIT"
+}
