@@ -10,8 +10,7 @@ cd %HOMEPATH%\powercord\src\Powercord\plugins && git clone https://github.com/Do
 
 # Jak pobrać PoweCord'a?
 
-Wymagane:
-
+**Wymagane:**
 - git – https://git-scm.com/downloads
 - node and npm (v10.0.0 or later; LTS is recommended*) – https://nodejs.org
 - Discord Canary (Powercord will only work with Canary!)
