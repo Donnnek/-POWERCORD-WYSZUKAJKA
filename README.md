@@ -8,7 +8,7 @@
 cd %HOMEPATH%\powercord\src\Powercord\plugins && git clone https://github.com/Donnnek/-POWERCORD-WYSZUKAJKA.git
 ```
 
-# Jak pobrać PoweCord'a?
+# Jak pobrać PowerCord'a?
 
 **Wymagane:**
 - **git** – https://git-scm.com/downloads
