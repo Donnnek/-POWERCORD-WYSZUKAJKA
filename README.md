@@ -14,9 +14,9 @@ cd %HOMEPATH%\powercord\src\Powercord\plugins && git clone https://github.com/Do
 - **git** – https://git-scm.com/downloads
 - **node i npm** – https://nodejs.org
 - **Discord Canary:
- [macOS](https://discord.com/api/download/canary?platform=osx)
- [Windows](https://discord.com/api/download/canary?platform=win)
- [Linux (deb)](https://discord.com/api/download/canary?platform=linux)
+ [macOS, ](https://discord.com/api/download/canary?platform=osx)
+ [Windows, ](https://discord.com/api/download/canary?platform=win)
+ [Linux (deb), ](https://discord.com/api/download/canary?platform=linux)
  [Linux (tar.gz)](https://discord.com/api/download/canary?platform=linux&format=tar.gz)
 
 ```bash
