@@ -20,13 +20,13 @@ cd %HOMEPATH%\powercord\src\Powercord\plugins && git clone https://github.com/Do
  [Linux (tar.gz)](https://discord.com/api/download/canary?platform=linux&format=tar.gz)
 
 ```bash
-- git clone https://github.com/powercord-org/powercord
-- cd powercord
-- npm i
-- npm run plug
-- powershell -Command "& {Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('Close DiscordCanary using the taskbar', 'Please read', 'OK', [System.Windows.Forms.MessageBoxIcon]::Information);}"
-- cd %HOMEPATH%\powercord\src\Powercord\plugins && git clone https://github.com/redstonekasi/theme-toggler
-- cd %HOMEPATH%
+• git clone https://github.com/powercord-org/powercord
+• cd powercord
+• npm i
+• npm run plug
+• powershell -Command "& {Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('Close DiscordCanary using the taskbar', 'Please read', 'OK', [System.Windows.Forms.MessageBoxIcon]::Information);}"
+• cd %HOMEPATH%\powercord\src\Powercord\plugins && git clone https://github.com/redstonekasi/theme-toggler
+• cd %HOMEPATH%
 ```
 
 # Jak pobrać plugin lub motyw?
