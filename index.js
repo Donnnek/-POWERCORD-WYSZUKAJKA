@@ -11,7 +11,7 @@ module.exports = class Wyszukajka extends Plugin {
                 let query = encodeURI(args.join(' '))
                 let treść = args.join(' ')
                 let url = `**${treść}**
-*Link: <https://wyszukajka.netlify.app/szukaj?q=${query}>*`
+*Link: <https://movies-city.eu/Wyszukiwarka/?q=${query}>*`
                 return {
                     send: true,
                     result: url
